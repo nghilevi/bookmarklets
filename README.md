@@ -1,0 +1,1 @@
+remove comments before converting into script
