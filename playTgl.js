@@ -6,9 +6,12 @@ function removeElementsByClass(className){
     }
 }
 
-// TARGET SITES:
-// udemy
-// youtube
-
-removeElementsByClass("video-player--center-button--aPLkI")
+removeElementsByClass("udlite-icon-xxxlarge");
 removeElementsByClass("ytp-progress-bar")
+
+/*
+. udemy
+. youtube
+
+remember to put ; at the end to separate fn execution to avoid Uncaught SyntaxError: Unexpected identifier
+*/
